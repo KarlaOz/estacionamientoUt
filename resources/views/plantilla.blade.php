@@ -12,7 +12,13 @@
 	<title>@yield("title","E-UTN")</title>
 </head>
 <body>
-	<header>
+	<header class="header_plantilla">
+		<div class="header-left">
+			<img src="imagenes/logout.webp" alt="Logo">
+		</div>
+		<div class="header-center">
+			<h1>@yield('encabezado','encabezado')</h1>
+		</div>
 	</header>
 	<section>
 		@yield('contenido')

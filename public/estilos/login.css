@@ -18,9 +18,9 @@
   }
   
   /*Form text*/
-  .title {
-    font-weight: bold;
-    font-size: 1.6rem;
+  .lg_login{
+    width: 6rem;
+    margin: auto;
   }
   
   .subtitle {
