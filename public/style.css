@@ -95,6 +95,15 @@ section {
     padding: 15px;
 }
 
+.card-container {
+    background-color: #ffffff;
+    color: #001f3f;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    padding: 15px;
+}
+
 footer {
     background-color: #000000;
     color: #ffffff;

@@ -1,5 +1,5 @@
 @extends('plantilla')
-@section('title', 'Inicia Sesion')
+@section('title', 'Iniciar Sesión')
 
 @section('encabezado','Iniciar sesion')
 
@@ -11,11 +11,12 @@
             <div class="form-container">
                 <input type="email" class="input" placeholder="Email">
                 <input type="password" class="input" placeholder="Password">
+                </div>
+                <button>Iniciar Sesión</button>
             </div>
-            <button>Iniciar Sesion</button>
+            <div class="form-section">
+                <p>¿No tienes cuenta? ¡<a href="">Resgitrate</a> con tu correo institucional!</p>
+            </div>
         </form>
-        <div class="form-section">
-            <p>¿No tienes cuenta? <a href="">Resgitrate</a> con tu correo institucional</p>
-        </div>
     </div>
 @endsection

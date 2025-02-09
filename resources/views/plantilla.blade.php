@@ -23,10 +23,8 @@
 	<section>
 		@yield('contenido')
 	</section>
-	
 	<footer id="contacto">
         <p>(c) 2024 Universidad Tecnológica de Nayarit. Derechos Reservados</p>
-
     </footer>
 </body>
 </html>
