@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/login', function(){
     return view('sesion');
 })->name('login');
+
+Route::get('/perfil', function(){
+    return view('perfil');
+})->name('perfil');    
