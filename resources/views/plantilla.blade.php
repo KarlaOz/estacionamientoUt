@@ -12,6 +12,8 @@
 	<title>@yield("title","E-UTN")</title>
 </head>
 <body>
+	<header>
+	</header>
 	<section>
 		@yield('contenido')
 	</section>
