@@ -3,7 +3,6 @@
 
 @section('contenido')
     <section>
-        <h1 class="section-title">Iniciar Sesión</h1>
         <br>
         <div class="form-box">
             <form class="form">
