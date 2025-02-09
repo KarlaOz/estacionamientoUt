@@ -24,3 +24,6 @@ Route::get('/login', function(){
 Route::get('/perfil', function(){
     return view('perfil');
 })->name('perfil');    
+Route::get('/cajones', function(){
+    return view('cajones');
+})->name('cajones');
