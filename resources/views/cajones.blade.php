@@ -5,6 +5,8 @@
     <link rel="stylesheet" href="estilos/cajones.css">
 </head>
 
+@section('encabezado', 'Vista de Estación')
+
 @section('contenido')
     <section>
         <h1 class="section-title">Estación X</h1>
