@@ -1,11 +1,11 @@
 @extends('plantilla')
 @section('title', 'Cajones - UTN')
+@section('encabezado','Cajones disponibles')
 @section('contenido')
     <section>
-        <h1 class="section-title">Cajones</h1>
         <div class="cards">
             <div class="card-container">
-                <h2>Estación 1</h2>
+                <h2>Estacionamiento</h2>
                 <table class="table-decorator">
                     <tr>
                         <td>

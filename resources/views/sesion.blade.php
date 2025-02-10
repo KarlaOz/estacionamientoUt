@@ -1,5 +1,5 @@
 @extends('plantilla')
-@section('title', 'Iniciar Sesión')
+@section('title', 'Iniciar sesión - UTN')
 
 @section('encabezado','Iniciar sesion')
 
@@ -13,9 +13,9 @@
                 <input type="password" class="input" placeholder="Password">
                 </div>
                 <button>Iniciar Sesión</button>
-            </div>
-            <div class="form-section">
-                <p>¿No tienes cuenta? ¡<a href="">Resgitrate</a> con tu correo institucional!</p>
+                <div class="form-section">
+                    <p>¿No tienes cuenta? ¡<a href="">Resgitrate</a> con tu correo institucional!</p>
+                </div>
             </div>
         </form>
     </div>
