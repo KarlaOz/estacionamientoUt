@@ -56,155 +56,9 @@
                     </tr>
                     <tr>
                         <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
+                            <br><br>
                         </td>
                     </tr>
-                </table>
-            </div>
-            <div class="card-container">
-                <h2>Estación 2</h2>
-                <table class="table-decorator">
-                    <tr>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                    </tr>
-                </table>
-            </div>
-            <div class="card-container">
-                <h2>Estación 3</h2>
-                <table class="table-decorator">
                     <tr>
                         <td>
                             <img src="imagenes/unknown.png" alt="">
@@ -299,56 +153,21 @@
                             <img src="imagenes/unknown.png" alt="">
                         </td>
                     </tr>
-                </table>
-            </div>
-            <div class="card-container">
-                <h2>Estación 4</h2>
-                <table class="table-decorator">
                     <tr>
                         <td>
-                            <img src="imagenes/unknown.png" alt="">
                         </td>
                         <td>
-                            <img src="imagenes/unknown.png" alt="">
                         </td>
                         <td>
-                            <img src="imagenes/unknown.png" alt="">
                         </td>
                         <td>
-                            <img src="imagenes/unknown.png" alt="">
                         </td>
                         <td>
-                            <img src="imagenes/unknown.png" alt="">
                         </td>
                         <td>
-                            <img src="imagenes/unknown.png" alt="">
                         </td>
                         <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
-                        </td>
-                        <td>
-                            <img src="imagenes/unknown.png" alt="">
+                            <img src="imagenes/carro-derecha.png" alt="carro que va hacia la derecha" width="90px">
                         </td>
                     </tr>
                     <tr>
