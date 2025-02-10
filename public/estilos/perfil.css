@@ -1,0 +1,36 @@
+.perfilcard {
+    background-color: white;
+    width: 700px;
+    height: 400px;
+    padding: 20px;
+    margin-left: 20%;
+    border-radius: 20px;
+    border: 2px solid black;
+    box-shadow: 0 30px 30px rgba(0, 0, 0, 0.603);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+.perfilcard:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.445);
+}
+.fotoperfil{
+    display: flex;
+    width: 20rem;
+}
+table{
+    align-items: center;
+}
+td{
+    text-align: left;
+    color: #000000;
+    padding: 40px;
+}
+.personalizado{
+    background-color: #cdcdcd;
+        border-radius: 5px;
+        width: 200px;
+        height: 20px;
+        border: 1px solid #000000;
+        display: inline-block;
+        font-size: 20px;
+}

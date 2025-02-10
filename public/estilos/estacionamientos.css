@@ -1,0 +1,71 @@
+section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Dos columnas */
+    gap: 50px;
+    justify-content: center; /* Centra el contenido de las columnas */
+    align-items: center; /* Centra los elementos en la columna verticalmente */
+    max-width: 800px; /* Limita el ancho máximo de la sección */
+    margin: 0 auto; /* Centra la sección horizontalmente */
+    margin-top: 10px; /* Añade espacio entre el título y los cuadros */
+    margin-left: 20%;
+}
+
+.div1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Alinea todo el contenido de la sección (texto e imagen) al centro */
+    justify-content: flex-start; /* Asegura que el contenido comience desde la parte superior */
+    gap: 10px;
+    text-align: center; /* Centra el texto dentro de los cuadros */
+}
+
+.div2 {
+    border: 1px solid #4CAF50; /* Borde verde para los cuadros */
+    padding: 20px;
+    width: 200px;
+    background-color: #fff; /* Fondo blanco para los cuadros */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    justify-content: center; /* Asegura que el contenido esté centrado */
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Efecto suave de cambio de color */
+}
+
+.div2:hover {
+    background-color: #ddac17; /* Cambia el fondo a dorado cuando el mouse pasa sobre el cuadro */
+    transform: scale(1.05); /* Hace que el cuadro crezca un poco al pasar el mouse */
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.445);
+}
+
+.div2 img {
+    max-width: 100%; /* Asegura que las imágenes sean responsivas */
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+    display: block; /* Hace que la imagen sea un bloque para centrarla */
+    margin-left: auto;
+    margin-right: auto; /* Centra la imagen horizontalmente */
+}
+
+section p {
+    font-size: 3em;
+    background: rgba(0, 0, 0, 0.308);
+    padding: 10px 20px;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center; /* Centra el texto */
+    margin-bottom: 10px; /* Da espacio entre el texto y el cuadro */
+    text-shadow: 2px 2px 5px #000;
+}
+
+@media (min-width: 768px) {
+    section {
+        grid-template-columns: repeat(2, 1fr); /* Asegura que haya dos columnas */
+    }
+}

@@ -1,5 +1,5 @@
 @extends('plantilla')
-@section('title', 'Estacionamiento - UTN')
+@section('title', 'Cajones - UTN')
 @section('contenido')
     <section>
         <h1 class="section-title">Cajones</h1>

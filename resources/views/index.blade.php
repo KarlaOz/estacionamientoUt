@@ -1,4 +1,5 @@
 @extends('plantilla')
+<!-- TODO:  modificar el inde x-->
 <body>
     @section('contenido')
         <section id="tipos">
